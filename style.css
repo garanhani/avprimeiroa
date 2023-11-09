@@ -7,3 +7,17 @@ body{
 background-image:url("frutas.jpg") ;
 background-size: cover;
 }
+h1{
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+}
+.botao{
+    background-color: blue;
+    color: aqua;
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    cursor: pointer;
+}
