@@ -9,12 +9,12 @@ background-size: cover;
 }
 h1{
     text-align: center;
-    color: aqua;
+    color: rgb(255, 0, 43);
     font-size: 50px;
 }
 .botao{
     background-color: blue;
-    color: aqua;
+    color: rgb(255, 0, 0);
     border: none;
     text-align: center;
     padding: 10px 20px;
