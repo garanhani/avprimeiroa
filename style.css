@@ -15,11 +15,12 @@ h1{
 p {
     text-align: center;
     font-size:30px;
+    color: darkgreen;
 
 }
 .botao{
     background-color: blue;
-    color: rgb(255, 0, 0);
+    color: rgb(218, 20, 20);
     border: none;
     text-align: center;
     padding: 10px 20px;
