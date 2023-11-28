@@ -9,13 +9,13 @@ background-size: cover;
 }
 h1{
     text-align: center;
-    color: rgb(255, 251, 0);
+    color: rgb(255, 196, 0);
     font-size: 50px;
 }
 p {
     text-align: center;
     font-size: 30px; 
-    color: rgb(248, 134, 4);
+    color: rgb(248, 224, 4);
 }
 
 
@@ -34,5 +34,5 @@ border-color: gold;
 }
 li{
     font-size: 20px;
-color:rgb(255, 122, 122)
+color:rgb(20, 20, 20)
 }
